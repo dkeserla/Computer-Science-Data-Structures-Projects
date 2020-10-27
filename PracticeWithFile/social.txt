@@ -1,0 +1,14 @@
+SS# 22-11-22-11-22 has a sum of 88
+
+SS# 1-2-3-4-5-6 has a sum of 21
+
+SS# 90-100-90 has a sum of 280
+
+SS# 1000-232 has a sum of 1232
+
+SS# 1-1-1-21-1-1-111-9999-1 has a sum of 10137
+
+SS# 9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9 has a sum of 144
+
+SS# 1 has a sum of 1
+
